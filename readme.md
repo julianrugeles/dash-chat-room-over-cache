@@ -35,9 +35,8 @@ python app.py
 
 ## Screenshots
 
-![Welcome Page](images/welcome.png)
-![Login Page](images/login.png)
-![Chat Room](images/chat-room.png)
+![Login Page](demo/demo_1.png)
+![Chat Room](demo/demo_2.png)
 
 
 ## Pages
